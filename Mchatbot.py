@@ -16,7 +16,7 @@ class MovieDatabase:
 
     def load_movies(self):
         movies = []
-        url = "https://raw.githubusercontent.com/your-username/movie-recommendation-chatbot/main/movies.csv"
+        url = "https://raw.githubusercontent.com/amenon-pvcc/Movie-recommendation/refs/heads/main/movie.csv"
         response = requests.get(url)
         response.raise_for_status()
         lines = response.text.splitlines()
