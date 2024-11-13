@@ -7,5 +7,5 @@ This is a simple Python chatbot that recommends movies based on genre. The chatb
 - Easy-to-use command-line interface
 
 ## Files
-- `chatbot.py`: The main Python script for the chatbot
-- `movies.csv`: A CSV file containing movies with titles, genres, and ratings
+- `Mchatbot.py`: The main Python script for the chatbot
+- `movie.csv`: A CSV file containing movies with titles, genres, and ratings
